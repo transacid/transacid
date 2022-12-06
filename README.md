@@ -1,3 +1,3 @@
 # hello there :wave:
 
-I'm Boris, a SRE from Berlin
+I'm Boris, a ~~SRE~~ cloud engineer from Berlin
